@@ -10,10 +10,11 @@ Simona Hovancikova - 12347335
 
 Jacopo Raffaelli - 12329537
 
+Dinesh Kumar Thakur (12334943
+
 Task workload BreakDown:
  
-1. adssa
-2. Traditional IR Model: Jacopo Raffaelli
-3. Neural model: Simona Hovancikova - 
-4. Neural-reRank: Babak Bayani - Arash Behaein
+1. Traditional IR Model: Jacopo Raffaelli
+2. Neural model: Simona Hovancikova - Dinesh Kumar Thakur
+3. Neural-reRank: Babak Bayani - Arash Behaein
   
