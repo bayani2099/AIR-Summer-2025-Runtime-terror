@@ -10,7 +10,7 @@ Simona Hovancikova - 12347335
 
 Jacopo Raffaelli - 12329537
 
-Dinesh Kumar Thakur (12334943
+Dinesh Kumar Thakur - 12334943
 
 Task workload BreakDown:
  
